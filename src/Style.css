@@ -1,0 +1,19 @@
+body {
+  background-image: url(https://t4.ftcdn.net/jpg/05/12/61/05/360_F_512610544_0excDel8sZTq4W0XLJTSehr9dZfOqi5R.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cardbody {
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+
+  justify-content: center;
+  background-color: rgba(9, 81, 114, 0.387);
+}
+.card {
+  border-color: black;
+  width: 18rem;
+  height: 600;
+}
